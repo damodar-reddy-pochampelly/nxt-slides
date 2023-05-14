@@ -15,7 +15,6 @@ const SlideItem = props => {
 
   return (
     <li
-      key={id}
       className={activeSlideClassName}
       testid={`slideTab${slideNumber}`}
       onClick={onClickChangeSlide}
