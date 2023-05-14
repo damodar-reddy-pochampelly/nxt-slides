@@ -109,18 +109,4 @@ In this project, you are going to build a **Nxt Slides** Application.
 > - All components you implement should go in the `src/components` directory.
 > - **Do not remove the pre-filled code**
 
-### Project submission instructions:
-
-<details>
-<summary>Project Submission should contain:</summary>
-
-- GitHub repository link to your code.
-- A video link. video should contain a code walkthrough and explain your application.
-  - Make at least a 5-minute video explaining your code and the features that you have implemented.
-  - Upload the recorded video to your YouTube account.
-  - Refer to [**this**](https://www.youtube.com/watch?v=VtF2AgFSLAw) video to get a better understanding of uploading videos to your YouTube account.
-- Follow the below points
-  - Standard naming conventions
-  - The code must be easily understandable
-  - The code must be readable
-</details>
+Github Repository Link:- https://github.com/damodar-reddy-pochampelly/nxt-slides.git
