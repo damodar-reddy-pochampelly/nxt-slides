@@ -175,7 +175,7 @@ class NxtSlides extends Component {
     const {slidesList, activeSlideId} = this.state
 
     return (
-      <ul className="slides-list-container">
+      <ol className="slides-list-container">
         {slidesList.map(eachSlide => {
           const slideNumber = slidesList.indexOf(eachSlide) + 1
           return (
@@ -184,10 +184,11 @@ class NxtSlides extends Component {
               activeSlideId={activeSlideId}
               onChangeSlide={this.onChangeSlide}
               slideNumber={slideNumber}
+              key={eachSlide.id}
             />
           )
         })}
-      </ul>
+      </ol>
     )
   }
 
