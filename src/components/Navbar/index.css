@@ -1,0 +1,19 @@
+.nav-bar {
+  background-color: #dbeafe;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+
+.nxt-slides-logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
+
+.nav-bar-heading {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  font-weight: 500;
+  margin: 0;
+}
